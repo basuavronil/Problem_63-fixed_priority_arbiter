@@ -38,3 +38,11 @@ $$\mathbf{req[0] > req[1] > req[2] > req[3]}$$
 ### Ideal Use Cases
 1. **Critical Interrupt Controller Handling:** Routing emergency power, safety, or fault lines that must bypass standard execution queues.
 2. **Asymmetric Master Environments:** Shared memory access where a high-bandwidth CPU core requires immediate priority over slower peripheral DMA channels.
+
+
+### Output 
+#### Waveform
+<img width="959" height="208" alt="image" src="https://github.com/user-attachments/assets/e0aa82ce-ed5c-4f3a-9af6-73b0fd69d28f" />
+
+#### Simulation terminal
+<img width="832" height="147" alt="image" src="https://github.com/user-attachments/assets/515ce12a-bfea-4514-b765-c722481b9d93" />
